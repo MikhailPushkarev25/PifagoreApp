@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PifagoreApp</string>
+    <string name="title">Вычислить \"С\"</string>
+    <string name="resultInfo">Результат:&#168;</string>
+    <string name="input_a">Введите значение \"A\"</string>
+    <string name="input_b">Введите значение \"B\"</string>
+    <string name="input_button">Ввод</string>
+</resources>
